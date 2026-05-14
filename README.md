@@ -38,7 +38,7 @@
 
 ###
 
-<p align="center">Won JISTech'25<br>Attended Hack4Bengal 4.O</p>
+<p align="center">2X Hackathon Winner<br>Extened Member at DevDotCom</p>
 
 ###
 
